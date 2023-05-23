@@ -1250,6 +1250,8 @@ if send_flag is not None:
  - 在根目录创建单独的文件夹 celery_tasks
  - 内部存放文件 main.py  config.py  [名字]文件夹(专门存放 tasks.py 文件)
 
+pip install -U Celery
+
  - 在 main 文件中写入
  from celery import Celery
 
