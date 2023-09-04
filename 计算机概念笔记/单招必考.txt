@@ -406,7 +406,7 @@
  - 信息: 包含数据, 人类社会与自然界需要传递, 存储, 交换的抽象内容
  - 媒体: 在计算机信息领域中泛指一切信息的载体
  - 多媒体是融合两种或两种以上的 人机交互式信息交流和传播载体
-   - 多媒体技术具有集成性, 实时性, 交互性 (实时交集)
+   - 多媒体技术具有集成性, 实时性, 交互性 (实时集成交互)
 
 2.常见格式
  - 文本格式     TXT, DOCX, WPS, RTF( 写字板 )
@@ -419,7 +419,7 @@
  - 网页文件     htm, html
  - 可执行文件   EXE, COM, BAT
 
-- 测试 TXT, PDF, DAI, htm, MPG/MPEG, RM, FLA, RTF, COM, BAT, RAR, mid, wav, MOV, WMV, xisx, pptx, SWF, BMP
+- 测试 AVI, WPS, TXT, PDF, DAI, GIF, htm, MPG/MPEG, docx, RM, FLA, RTF, COM, BAT, RAR, mid, wav, MOV, WMV, xisx, pptx, SWF, BMP
 ----------------------------------------------------------------------------- Windows 7 操作系统
 
 1.操作系统, 是管理计算机硬件与软件资源的计算机程序
