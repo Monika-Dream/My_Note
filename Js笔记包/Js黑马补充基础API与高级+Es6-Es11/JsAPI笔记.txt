@@ -357,14 +357,14 @@ element.classList.toggle('类名')
 - 使用插件
 ————————————————————————————————————————————
 48.本地存储之 window.sessionStorage
-sessionStorage.setltem(key,value)		- 存储数据于浏览器
+sessionStorage.setItem(key,value)		- 存储数据于浏览器
 - 生命周期为关闭浏览器窗口
 - 在同一个窗口( 页面 )下数据共享
 - 以键值对的形式存储使用
 - 相同键名会覆盖原先内容
 
-sessionStorage.getltem(key)			- 获取数据于浏览器
-sessionStorage.removeltem(key)		- 删除数据于浏览器
+sessionStorage.getItem(key)			- 获取数据于浏览器
+sessionStorage.removeItem(key)		- 删除数据于浏览器
 sessionStorage.clear()			- 删除所有数据于浏览器
 ————————————————————————————————————————————
 49.本地存储之 window.localStorage
