@@ -1151,3 +1151,7 @@ align-items:stretch; 延伸，以填满整个单元格
 place-items属性是align-items和justify-items属性的合并简写形式。
 place-items：justify-items align-items;
 先水平再竖直，中间用空格隔开。
+
+————————————————————————
+[*补充*] - CSS 等比图形
+ - aspect-ratio: 1/1;
