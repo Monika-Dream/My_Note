@@ -360,9 +360,9 @@ if __name__ == '__main__':
 ----------------------------------------------------------- aiohttp 注意事项
 
 1.报错: RuntimeError: Event loop is closed 
- - 使用   loop = asyncio.get_event_loop()   loop.run_until_complete(main()) 即可
+ - 加上   asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
  - 但是使用 asyncio.run(main()) 也行, 报错不影响结果
- - 目前查阅到是因为 asyncio.run() 自动提前关闭了 "任务队列", 上面没出错的原因是手动挡,还少了行 loop.close() 代码
+ - 目前查阅到是因为 windows 对于 Https 的网站出现的错误
 
 
 2.报错: aiohttp.client_exceptions.ClientConnectorCertificateError: 

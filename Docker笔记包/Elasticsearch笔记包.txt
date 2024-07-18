@@ -3,9 +3,9 @@
  - 得等上半天
 
 docker run -d -p 9200:9200 -p 9300:9300 -e "discovery.type=single-node" --name es ^
--v C:/Users/Lenovo/Desktop/es/config:/usr/share/elasticsearch/config ^
--v C:/Users/Lenovo/Desktop/es/data:/usr/share/elasticsearch/data ^
--v C:/Users/Lenovo/Desktop/es/plugins:/usr/share/elasticsearch/plugins ^
+-v C:/Users/Monika/Desktop/docker_file/Elasticsearch/config:/usr/share/elasticsearch/config ^
+-v C:/Users/Monika/Desktop/docker_file/Elasticsearch/data:/usr/share/elasticsearch/data ^
+-v C:/Users/Monika/Desktop/docker_file/Elasticsearch/plugins:/usr/share/elasticsearch/plugins ^
 --cpuset-cpus="1" --memory="1G" -e TZ="Asia/Shanghai" -e LANG="C.UTF-8" elasticsearch:8.5.2
 
 
