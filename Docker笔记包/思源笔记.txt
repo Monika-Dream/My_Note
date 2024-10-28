@@ -1,0 +1,19 @@
+
+docker run -d -v C:/Users/Monika/Desktop/docker_file/siyuan/workspace:/siyuan/workspace -p 6806:6806 -u 1000:1000 -lang=zh_CN b3log/siyuan:v3.1.6 --workspace=/siyuan/workspace --accessAuthCode=840845135
+
+
+
+//官方实例
+docker run -d -v /siyuan/workspace:/siyuan/workspace -p 6806:6806 -u 1000:1000 b3log/siyuan:v3.1.6 --workspace=/siyuan/workspace/ --accessAuthCode=xxx
+
+
+
+docker run -d \
+  -v C:/Users/Monika/Desktop/docker_file/siyuan/workspace:/siyuan/workspace \
+  -p 6806:6806 \
+  -u 1000:1000 \
+  b3log/siyuan:v3.1.6 \
+  --workspace=/siyuan/workspace/
+
+
+  docker pull b3log/siyuan:v3.1.6

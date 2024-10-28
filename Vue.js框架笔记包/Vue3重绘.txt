@@ -403,13 +403,17 @@ const vFocus = {
     el.focus()
 }
 
+_____________/- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - [ 二十三 ] setup语法糖中使用 父子组件传参 defineProps
 
+首先，父组件通过自定义属性向子组件传递值：
+<Subassembly :value="doc"/>
 
+然后子组件从 vue 中引入defineProps
+import { defineProps } from 'vue'
 
-
-
-
-
+再声明接收的值const props = defineProps(['value'])
+最后，就可以在子组件中使用父组件传递过来的值了
+<h1>{{ props.value }}</h1>
 
 
 
