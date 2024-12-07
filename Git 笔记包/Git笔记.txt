@@ -32,8 +32,8 @@ git - 源代码管理
  - 进入工作目录初始化 git  						git init 
  	 - 创建出来的为 隐藏文件
  - 编写管理信息
- 												git config user.name Monika
- 												git config user.email wangxubo780@gmail.com
+ 														git config user.name Monika
+ 														git config user.email wangxubo780@gmail.com
  - 查看 git 状态									git status
  - 创建代码文件并且放入暂存区						git add 文件名
  - 将暂存区文件放入仓库去提交一次					git commit -m "备注" 
