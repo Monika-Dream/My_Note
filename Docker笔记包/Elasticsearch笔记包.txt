@@ -2,10 +2,12 @@
  - 记得关闭防火墙 控制面板\系统和安全\Windows Defender 防火墙
  - 得等上半天
 
+docker pull elasticsearch:8.5.2
+
 docker run -d -p 9200:9200 -p 9300:9300 -e "discovery.type=single-node" --name es ^
--v C:/Users/Monika/Desktop/docker_file/Elasticsearch/config:/usr/share/elasticsearch/config ^
--v C:/Users/Monika/Desktop/docker_file/Elasticsearch/data:/usr/share/elasticsearch/data ^
--v C:/Users/Monika/Desktop/docker_file/Elasticsearch/plugins:/usr/share/elasticsearch/plugins ^
+-v C:\Users\Monika\Desktop\docker_file\Elasticsearch\config:\usr\share\elasticsearch\config ^
+-v C:\Users\Monika\Desktop\docker_file\Elasticsearch\data:\usr\share\elasticsearch\data ^
+-v C:\Users\Monika\Desktop\docker_file\Elasticsearch\plugins:\usr\share\elasticsearch\plugins ^
 --cpuset-cpus="1" --memory="1G" -e TZ="Asia/Shanghai" -e LANG="C.UTF-8" elasticsearch:8.5.2
 
 
@@ -13,12 +15,11 @@ docker run -d -p 9200:9200 -p 9300:9300 -e "discovery.type=single-node" --name e
 
 
  - 下载 ik 分词器
-./bin/elasticsearch-plugin install https://github.com/medcl/elasticsearch-analysis-ik/releases/download/v8.5.2/elasticsearch-analysis-ik-8.5.2.zip
+
+./bin/elasticsearch-plugin install https://get.infini.cloud/elasticsearch/analysis-ik/8.5.2
 
 
-
-
-docker cp es:/usr/share/elasticsearch/config C:/Users/Lenovo/Desktop/es/config
+docker cp es:/usr/share/elasticsearch/config C:/Users/Monika/Desktop/docker_file/Elasticsearch/config
 
 
 
