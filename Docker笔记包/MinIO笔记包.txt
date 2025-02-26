@@ -10,7 +10,7 @@ docker 进入 minio 伪终端
 
 
 - 创建并启动minIO容器：
-docker run -p 9000:9000 -p 9090:9090 --name minio -d --restart=always -e "MINIO_ACCESS_KEY=minioadmin" -e "MINIO_SECRET_KEY=minioadmin" -v C:/users/lenovo/desktop/minio/data:/data minio/minio server /data --console-address ":9090" -address ":9000"
+docker run -p 9000:9000 -p 9090:9090 --name minio -d --restart=always -e "MINIO_ACCESS_KEY=minioadmin" -e "MINIO_SECRET_KEY=minioadmin" -v C:/users/Monika/desktop/minio/data:/data minio/minio server /data --console-address ":9090" -address ":9000"
 
 
 1.docker run -p 9000:9000 -p 9090:9090 		
