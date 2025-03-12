@@ -1,5 +1,6 @@
 英语作文句型
  - 标准格式 ( 需要背过 )
+ 
 ``` 开头的套话
 	 - I im delighted to hear you that you want to ...		
 		 - 我很高兴听到你想去...
@@ -12,6 +13,9 @@
 
 	 - For sth to choose, I highly recommend sth.
 	 	 - 对于你要选择的东西，我高度推荐某个东西.
+
+	 - It is great to hear from you. knowing you want to do sth. I would like to recommend one to you.
+	 	 - 收到你的来信很开心, 得知你想要去做 ... 我想给你推荐一个 ...
 ```
 ```中间的过度
 	 - I heartily recommend sth to you based on the following reasons.
@@ -23,6 +27,9 @@
 
 	 - I really hope my advice will be helpful. wish you a great success.
 	 	 - 我真心希望我的建议有用. 希望你成功.
+
+ 	 - Does this sth appeal to you? If you are interested, do sth. You will not be disappionted, I pormise!
+ 	 	 - 这个东西你感兴趣吗？如果要是你感兴趣的话，你可以... 。你不会失望的，我保证。
 ```
 
 ```推荐类文章搭配
@@ -68,7 +75,16 @@
 
  	 - Stand out among all the competitors												脱颖而出
 
+ 	 - Bullet train / high - speed railway network										高铁
 
+ 	 - Artists from all over the country												全国各地的艺术家
+
+ 	 - chinese folk arts and crafts														中国民俗手工艺
+
+ 	 - Nianhua Paintings / kites / paper-cuts / chinese knot							代表中国的传统
+
+ 	 - sth totally immerse you in chinese culture										sth 让你完全沉浸中国文化里
+ 	 - sb be totally immersed in chinese culture
 
 
 
@@ -86,3 +102,23 @@
  	 - Fully understand the conception of sth.
  	 	 - 完全理解某事的概念
  	 	 - 适用于 [ 活动准备 ]
+
+ 	 - Does this sth appeal to you? If you are interested, do sth. You will not be disappionted, I pormise!
+ 	 	 - 这个东西你感兴趣吗？如果要是你感兴趣的话，你可以... 。你不会失望的，我保证。
+
+ 	 - I strongly suggest you do sth. for it will do sth.
+ 	 	 - 我强烈建议你去做... 因为它会有一个...的结果
+ 	 	 - 建议句式 + 原因，增强说服力
+
+ 	 - Have a great chance to do sth.
+ 	 	 - 有机会去做某事
+
+
+ - 案例
+
+```
+	- As you set foot on the steps of the Great Wall, you will have a great chance to 
+		be immersed in the profoundness of chinese history.
+
+	- 当你登上长城的阶梯，你将有机会深深地感受到中国历史的悠久与深厚。
+```
