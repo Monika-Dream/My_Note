@@ -45,11 +45,10 @@
 	   - 1/2/3 三个句型是用于 表演 ( performance ) / 比赛 ( contest ) 这种类似的建议文章中可以使用的 
 ```
 
-
-
  - 扩展句型 / 短语 / 词汇
-
- 	 - Time-honored development 														历史悠久
+```
+ 	 - Time-honored cultural heritage													历史悠久 ( 推荐 )
+ 	  	- "Time-honored" 适用于 “ traditions, customs(习俗), heritage ”，不适用于 “development”。
 
  	 - Get a taste of / experience / appreciate + sth 									感受到
 
@@ -83,7 +82,9 @@
 
  	 - Nianhua Paintings / kites / paper-cuts / chinese knot							代表中国的传统
 
- 	 - sth totally immerse you in chinese culture										sth 让你完全沉浸中国文化里
+ 	 - sth totally immerse you in chinese culture										
+ 	 	 - sth 让你完全沉浸中国文化里
+
  	 - sb be totally immersed in chinese culture
 
  	 - paper-cutting - a kind of traditional handicrafts								一种传统手工艺类型
@@ -107,16 +108,34 @@
 
  	 - Scenic spots / must-see attractions / places of interests / historial sites		景点 -> 名胜古迹
 
+ 	 - One of the cradles of chinese civilization										中华文明的摇篮之一
 
+ 	 - Many -> Abundant
 
+ 	 - The chinese element and features are everywhere to be profoundness				中国元素和特点随处可见
 
+ 	 - The cultural activities are truly impressive from ... to ...						
+ 	 	 - 文化的活动特别令人印象深刻从 ... 到 ...
+
+ 	 - Immersed in the atmosphere they created, you can have a deeper look into historical events,
+ 	 	 - folk arts and traditional customs.
+ 	 		 - deeper look into historical -> 深入的了解到历史事件
+
+ 	 - Try the snacks and the local restaurants for more flavors						flavors -> 口味/风味
+```
 
  - 通用格式
+```
 
  	 - What takes sth to a new height is sth
  	 	 - 递进句式，引出高潮环节
  	 	 	 - 例子：What took the activity to a new height was the final persentation.
  	 	 		 - 把这个活动带到新的高度的就是最后的这个展示
+
+ 	 - If you ask what represents the peak of _____ ,many people would say the _____
+ 	 	 - 如果你问什么代表着 ____ 的最高峰，许多人会说是 ____
+ 	 	 	 - 例子：If you ask what represents the peak of Chinese history, many people would say the Terracotta Army.
+ 	 	 	 	 - 如果你问什么代表着中国历史的最高峰, 许多人会回答兵马俑。
 
  	 - Search of related background knowledge.
  	 	 - 搜索背景知识
@@ -135,7 +154,7 @@
 
  	 - Have a great chance to do sth.
  	 	 - 有机会去做某事
-
+```
 
  - 案例
 
@@ -144,4 +163,24 @@
 		be immersed in the profoundness of chinese history.
 
 	- 当你登上长城的阶梯，你将有机会深深地感受到中国历史的悠久与深厚。
+```
+
+ - 如何写作？
+```
+名词短语
+	 - 核心名词务必要 【 准确 】
+	 - 核心名词的前面用形容词修饰 【 情感和档次 】
+	 - 核心名词的后面用介词短语，同位语，破折号解释 【 具体化，细节化 】
+	 	例子： delicate [ gifts ] for my friends at home.
+
+作文逻辑： 背景 - 特点 - 总结 - 客观特点 - 主观感受 - 期望 - 期望 - 结束
+
+长句写作模式：
+	 - 1.介词短语： 时间 / 地点 / 身份 【 As 】 / 性质 【 As 】 / 伴随状态 【 with / without 】
+	 	例子： Without the assistance from my teacher and the support from my friends. 
+	 			 -  I would never have succeeded
+
+	 - 2.事例列举： such as / for example / like A, B and C
+	 - 3.非谓语动词： doing - 同时 / having done 先后 / to do 目的 / done 感受
+	 - 4.主从句逻辑关系： what / which / where / when
 ```
