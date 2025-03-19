@@ -122,6 +122,9 @@
  	 		 - deeper look into historical -> 深入的了解到历史事件
 
  	 - Try the snacks and the local restaurants for more flavors						flavors -> 口味/风味
+
+ 	 - diversified color / aromatic flavor / excellent taste							色香味俱全
+ 	 	 多种多样的颜色	 /    芳香的风味	   /    不错的口味
 ```
 
  - 通用格式
