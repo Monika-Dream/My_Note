@@ -16,6 +16,9 @@
 
 	 - It is great to hear from you. knowing you want to do sth. I would like to recommend one to you.
 	 	 - 收到你的来信很开心, 得知你想要去做 ... 我想给你推荐一个 ...
+
+	 - Very happy to learn from you and you are welcome to study in our school for the next two months.
+	 	 - 欢迎的交际性用语
 ```
 ```中间的过度
 	 - I heartily recommend sth to you based on the following reasons.
@@ -30,6 +33,9 @@
 
  	 - Does this sth appeal to you? If you are interested, do sth. You will not be disappionted, I pormise!
  	 	 - 这个东西你感兴趣吗？如果要是你感兴趣的话，你可以... 。你不会失望的，我保证。
+
+ 	 - Hopefully, what I`ve mentioned above could be helpful and wish you a fun time in our school.
+ 	 	 - 欢迎的收尾
 ```
 
 ```推荐类文章搭配
@@ -157,6 +163,14 @@
 
  	 - Have a great chance to do sth.
  	 	 - 有机会去做某事
+
+ 	 - What you should do carefully is just to do sth while doing sth / and do sth after sth.
+ 	 								  |------2------||——————1———————|      |---4---|    |—3—|
+ 	 	 - 1.在你做某个事的时候
+ 	 	 	 - 2.你要干什么
+ 	 	 - 3.在你做某事以后 ( 建议少时可选择不要 3-4 )
+ 	 	 	 - 4.你要干什么
+ 	 	 - 例子： 在你骑车的时候注意速度, 在你骑完后注意锁车.							  
 ```
 
  - 案例
@@ -176,7 +190,9 @@
 	 - 核心名词的后面用介词短语，同位语，破折号解释 【 具体化，细节化 】
 	 	例子： delicate [ gifts ] for my friends at home.
 
-作文逻辑： 背景 - 特点 - 总结 - 客观特点 - 主观感受 - 期望 - 期望 - 结束
+作文逻辑
+	 - 背景 - 特点 - 总结 - 客观特点 - 主观感受 - 期望 - 期望 - 结束
+	 - Following reasons -> Firstly	-> Next -> Actually ___ also ___
 
 长句写作模式：
 	 - 1.介词短语： 时间 / 地点 / 身份 【 As 】 / 性质 【 As 】 / 伴随状态 【 with / without 】
