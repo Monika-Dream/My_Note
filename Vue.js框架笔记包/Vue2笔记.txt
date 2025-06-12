@@ -986,7 +986,7 @@ const router = new VueRouter({
         title:Monika  
     }}">
 </router-link>
-<router-link :to={name:"Home"}></router-link>
+<router-link :to="{ name: 'name' }">{{ i.name }}</router-link>
 ——————————————————————————————————————
 ——————>补充					vue-router meta 属性
  - 请往 它 身上放置东西
